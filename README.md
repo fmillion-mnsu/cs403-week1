@@ -8,4 +8,4 @@
 
 Each week we will utilize these code repositories to share sample code with explanations as well as your homework assignments. You will submit your homework assignments via D2L - there are additional details about this in this week's homework folder. 
 
-[RESOURCES.md](View this week's resources!)
+[View this week's resources!](RESOURCES.md)
